@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [09 — Multi-Model Routing / API Platform](./09-multi-model-routing-api-platform.md)
+**Parent system design:** [09 — Multi-Model Routing / API Platform](https://github.com/Debashis2007/enterprise-pinned-deployments/blob/main/09-multi-model-routing-api-platform.md)
 
 ## Users & problem
 

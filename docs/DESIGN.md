@@ -1,7 +1,7 @@
 # Design: Enterprise Pinned Deployments
 
 **Project:** `enterprise-pinned-deployments`  
-**Parent system design:** [09 — Multi-Model Routing / API Platform](../09-multi-model-routing-api-platform.md)
+**Parent system design:** [09 — Multi-Model Routing / API Platform](https://github.com/Debashis2007/enterprise-pinned-deployments/blob/main/09-multi-model-routing-api-platform.md)
 
 ## 1. What this POC demonstrates
 
