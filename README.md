@@ -1,5 +1,7 @@
 # Use Case: Enterprise Pinned Deployments
 
+**YouTube walkthrough:** [Enterprise Pinned Deployments — System Design #Shorts](https://youtu.be/SzhDROyjGAE)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -47,6 +49,9 @@ Org policy: deny floating aliases
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Enterprise Pinned Deployments — System Design #Shorts](https://youtu.be/SzhDROyjGAE)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
